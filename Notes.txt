@@ -1,5 +1,6 @@
 Bikkelhart opdracht notes:
 
+
 1.	Create structured folders and make it a GIT repository
 	-	Ontwikkel bestanden (can use existing project)
 2.	Implement Taskrunner
