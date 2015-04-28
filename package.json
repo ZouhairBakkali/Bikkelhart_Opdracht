@@ -1,0 +1,33 @@
+{
+  "name": "Bikkelhart_Opdracht",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZouhairBakkali/Bikkelhart_Opdracht.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Zouhair Bakkali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZouhairBakkali/Bikkelhart_Opdracht/issues"
+  },
+  "homepage": "https://github.com/ZouhairBakkali/Bikkelhart_Opdracht"
+}
